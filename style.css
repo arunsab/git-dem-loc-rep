@@ -1,10 +1,11 @@
 <style>
 body {
-  background-color: linen;
+  background-color: red;
+  font-family: monospace;
 }
 
 h1 {
-  color: maroon;
+  color: red;
   margin-left: 40px;
 } 
 </style>
