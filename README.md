@@ -1,2 +1,2 @@
-# git-dem-loc-rep
+# git-demo-project
 demo repo for session
